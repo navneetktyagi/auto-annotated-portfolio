@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Navneet Tyagi
-    subtitle: Senior Technology Leader | Cloud Computing | Software Architecture | AI
+    subtitle: "Senior Technology Leader | Cloud Computing | Software Architecture | AI\_ \_ \_ \_ \_ \_ \_ \_ \_ Senior Technology Leader with over 18 years of successful experience in architecture, designing and delivering high performance solutions.\_Currently leading a high-performing engineering team in my current role. I play a strategic role in shaping architecture roadmaps and driving modernization initiatives across our Integrations platforms. My team is responsible for designing scalable, secure APIs and implementing event-driven architectures that have significantly enhanced system performance and regulatory compliance while achieving notable cost reductions.Experience leading diverse teams of onsite and offshore resources for healthcare, energy, and finance/mortgage industries."
     styles:
       self:
         height: auto
